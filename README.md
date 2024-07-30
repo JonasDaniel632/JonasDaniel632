@@ -1,7 +1,10 @@
 ## Oi 👋
 meu nome é Jonas
+
 -Eu estou estudando com o alura
+
 -Eu estou aprendendo java script
+
 -Eu uso esse espaço para projetos e estudo
 
 <!--
@@ -20,4 +23,4 @@ Here are some ideas to get you started:
 -->
 
 ![]()
-https://tenor.com/blZeJ.gif
+https://media1.tenor.com/m/JWJRjZFUa_cAAAAC/one-piece-anime.gif
