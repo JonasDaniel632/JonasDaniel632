@@ -22,5 +22,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![]()
-https://media1.tenor.com/m/JWJRjZFUa_cAAAAC/one-piece-anime.gif
+![](https://media1.tenor.com/m/JWJRjZFUa_cAAAAC/one-piece-anime.gif)
