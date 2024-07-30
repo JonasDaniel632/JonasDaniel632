@@ -1,4 +1,8 @@
-## Hi there 👋
+## Oi 👋
+meu nome é "Jonas"
+-Eu estou estudando com o alura
+-Eu estou aprendendo java script
+-Eu uso esse espaço para projetos e estudo
 
 <!--
 **JonasDaniel632/JonasDaniel632** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
