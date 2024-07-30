@@ -1,5 +1,5 @@
 ## Oi 👋
-meu nome é "Jonas"
+meu nome é Jonas
 -Eu estou estudando com o alura
 -Eu estou aprendendo java script
 -Eu uso esse espaço para projetos e estudo
@@ -18,3 +18,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![]()
+https://tenor.com/blZeJ.gif
